@@ -1,14 +1,162 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "transID": "MPS-A000000BXAT",
+    "date": "2018-07-01 07:00:25",
+    "desc": "Deposit by 254 through MPESA",
+    "debit": null,
+    "credit": "438.94",
+    "balance": "644.43"
+  },
+  {
+    "transID": "PMT-A000000BJ18",
+    "date": "2018-06-17 08:20:03",
+    "desc": "Loan repayment: Loan No LNO-A00000004L5 issued by Andrews Holdings Ltd",
+    "debit": "-110.00",
+    "credit": null,
+    "balance": "205.49"
+  },
+  {
+    "transID": "MPS-A000000AWH4",
+    "date": "2018-06-01 07:00:08",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A000000AWH0",
+    "debit": null,
+    "credit": "217.49",
+    "balance": "315.49"
+  },
+  {
+    "transID": "EQT-A000000AGBT",
+    "date": "2018-05-20 12:44:04",
+    "desc": "Loan Application Fees - Loan issued by ANDREWS HOLDINGS LTD",
+    "debit": "-2.00",
+    "credit": null,
+    "balance": "98.00"
+  },
+  {
+    "transID": "EQT-A000000AGBP",
+    "date": "2018-05-20 12:44:03",
+    "desc": "Loan disbursement from ANDREWS HOLDINGS LTD",
+    "debit": null,
+    "credit": "100.00",
+    "balance": "100.00"
+  },
+  {
+    "transID": "PMT-A000000A5FL",
+    "date": "2018-05-11 15:19:00",
+    "desc": "Loan repayment: Loan No LNO-A00000004I1 issued by Mobipesa Limited",
+    "debit": "-110.00",
+    "credit": null,
+    "balance": "0.00"
+  },
+  {
+    "transID": "MPS-A000000A5FG",
+    "date": "2018-05-11 15:18:38",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID MEB8CMM6GK",
+    "debit": null,
+    "credit": "110.00",
+    "balance": "110.00"
+  },
+  {
+    "transID": "MPS-A000000A3H9",
+    "date": "2018-05-10 09:41:16",
+    "desc": "Withdrawal by 25470001234 through MPESA",
+    "debit": "-155.33",
+    "credit": null,
+    "balance": "0.00"
+  },
+  {
+    "transID": "EQT-A000000A3H1",
+    "date": "2018-05-10 09:41:16",
+    "desc": "Loan Application Fees - Loan issued by MOBIPESA LIMITED",
+    "debit": "-2.00",
+    "credit": null,
+    "balance": "155.33"
+  },
+  {
+    "transID": "EQT-A000000A3GX",
+    "date": "2018-05-10 09:41:16",
+    "desc": "Loan disbursement from MOBIPESA LIMITED",
+    "debit": null,
+    "credit": "100.00",
+    "balance": "157.33"
+  },
+  {
+    "transID": "CPM-A0000009XVK",
+    "date": "2018-05-06 08:00:00",
+    "desc": "Credit Payment - Account No:9000000031",
+    "debit": "-203.32",
+    "credit": null,
+    "balance": "57.33"
+  },
+  {
+    "transID": "MPS-A0000009NNE",
+    "date": "2018-04-30 07:00:08",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A0000009NNA",
+    "debit": null,
+    "credit": "194.44",
+    "balance": "260.65"
+  },
+  {
+    "transID": "C2C-A0000009EZU",
+    "date": "2018-04-24 17:46:27",
+    "desc": "Sambaza to S GAKERE - 25470001234",
+    "debit": "-10.00",
+    "credit": null,
+    "balance": "66.21"
+  },
+  {
+    "transID": "MPS-A0000008XM8",
+    "date": "2018-04-10 04:28:52",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID MDA4QV9DHI",
+    "debit": null,
+    "credit": "10.00",
+    "balance": "76.21"
+  },
+  {
+    "transID": "MPS-A0000008IVO",
+    "date": "2018-03-28 07:24:20",
+    "desc": "Withdrawal by 25470001234 through MPESA",
+    "debit": "-750.00",
+    "credit": null,
+    "balance": "66.21"
+  },
+  {
+    "transID": "MPS-A0000008IOW",
+    "date": "2018-03-28 07:00:09",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A0000008IOS",
+    "debit": null,
+    "credit": "202.00",
+    "balance": "816.21"
+  },
+  {
+    "transID": "MPS-A0000007DBW",
+    "date": "2018-02-28 07:00:06",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A0000007DBS",
+    "debit": null,
+    "credit": "52.32",
+    "balance": "614.21"
+  },
+  {
+    "transID": "MPS-A0000006TND",
+    "date": "2018-02-03 11:24:44",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A0000006TN9",
+    "debit": null,
+    "credit": "119.94",
+    "balance": "561.89"
+  },
+  {
+    "transID": "MPS-A0000006PFB",
+    "date": "2018-01-30 07:00:11",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A0000006PF7",
+    "debit": null,
+    "credit": "382.87",
+    "balance": "441.95"
+  },
+  {
+    "transID": "MPS-A0000005FEZ",
+    "date": "2017-11-30 07:00:05",
+    "desc": "Deposit by 25470001234 through MPESA Transaction ID CIN-A0000005FEV",
+    "debit": null,
+    "credit": "59.08",
+    "balance": "59.08"
   }
-}
+]
